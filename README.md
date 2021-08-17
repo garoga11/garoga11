@@ -124,8 +124,9 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:rojasgabriela901@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="http://www.linkedin.com/in/gabriela-rojas-643779208"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:rojasgabriela901@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" width="30px" height="30px"/></a>
+	<a href="http://www.linkedin.com/in/gabriela-rojas-643779208"><img src="https://image.flaticon.com/icons/png/512/179/179330.png" alt="LinkedIn" width="30px" height="30px"/></a>
+	<a href="https://drive.google.com/file/d/1nuoMekoKB8qDQ5fVePpb4orVpO0mV3mZ/view?usp=sharing"><img src="https://image.flaticon.com/icons/png/512/3135/3135692.png" alt="Resume" width="30px" height="30px"/></a>
 </p>
 
 <hr/>
