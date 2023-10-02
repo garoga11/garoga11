@@ -12,7 +12,7 @@
 
 ## 🛠️ My Skills
 
-### 👉 Programming languages
+### 👉 Backend Development
 
 <p align="left"> 
   &emsp; 
@@ -42,7 +42,7 @@
    &emsp;
 </p>
 
-### 👉 Databases & Cloud Hosting
+### 👉 Databases
 <p align="left">
   &emsp;
 	
@@ -60,9 +60,9 @@
  ### 👉 Software & Tools
 <p>
   &emsp;
-<img alt="linux" src="https://imgur.com/GUzrrF1"  width="50">
+<img alt="linux" src="https://imgur.com/gEmt67P"  width="50">
   &emsp;
-<img alt="Git" src="https://imgur.com/gEmt67P"  width="50">
+<img alt="Git" src="https://i.imgur.com/gEmt67P.png"  width="50">
   &emsp;
 </p>
 
@@ -83,29 +83,18 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
 </details>
-
-
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/garoga11"><img alt="Gabriela's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=garoga11&custom_title=Gabriela%20Rojas's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
-
 <br/>
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:rojasgabriela901@gmail.com"><img src="https://image.flaticon.com/icons/png/512/281/281769.png" alt="Gmail" width="30px" height="30px"/></a>
-	<a href="http://www.linkedin.com/in/gabriela-rojas-643779208"><img src="https://image.flaticon.com/icons/png/512/179/179330.png" alt="LinkedIn" width="30px" height="30px"/></a>
-	<a href="https://drive.google.com/file/d/1nuoMekoKB8qDQ5fVePpb4orVpO0mV3mZ/view?usp=sharing"><img src="https://image.flaticon.com/icons/png/512/3135/3135692.png" alt="Resume" width="30px" height="30px"/></a>
+	<a href="mailto:rojasgabriela901@gmail.com"><img src="https://i.imgur.com/LTqfkZX.png" alt="Gmail" width="30px" height="30px"/></a>
+	<a href="http://www.linkedin.com/in/gabriela-rojas-643779208"><img src="https://i.imgur.com/0ZItPx1.png" alt="LinkedIn" width="50px" /</a>
 </p>
 
 <hr/>
 
 * Credit: [Candida18](https://github.com/Candida18)
-* Last Edited on: 20/07/2021
+* Last Edited on: 02/10/2023
 
 
 
