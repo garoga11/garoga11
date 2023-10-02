@@ -40,6 +40,9 @@
 
 <img alt="tailwind" src="https://i.imgur.com/nCVRWKy.png" width="50">
    &emsp;
+
+<img alt="Angular" src="https://i.imgur.com/emBq52t.png" width="50">
+   &emsp;
 </p>
 
 ### 👉 Databases
@@ -55,17 +58,6 @@
 <img alt="sqLite Pages" src="https://i.imgur.com/DArewHg.png" width="50">
   &emsp;
  </p>
-
-
- ### 👉 Software & Tools
-<p>
-  &emsp;
-<img alt="linux" src="https://imgur.com/gEmt67P"  width="50">
-  &emsp;
-<img alt="Git" src="https://i.imgur.com/gEmt67P.png"  width="50">
-  &emsp;
-</p>
-
 <br/>
 
 ## 📊 Github Stats (Expand to View) 
@@ -87,8 +79,8 @@
 
 ## 🙋‍♀️ Let's Connect
 <p align="center">
-	<a href="mailto:rojasgabriela901@gmail.com"><img src="https://i.imgur.com/LTqfkZX.png" alt="Gmail" width="30px" height="30px"/></a>
-	<a href="http://www.linkedin.com/in/gabriela-rojas-643779208"><img src="https://i.imgur.com/0ZItPx1.png" alt="LinkedIn" width="50px" /</a>
+	<a href="mailto:rojasgabriela901@gmail.com"><img src="https://i.imgur.com/fXxVhOQ.png" alt="Gmail" width="30px" height="30px"/></a>
+	<a href="http://www.linkedin.com/in/gabriela-rojas-643779208"><img src="https://i.imgur.com/ihgHt9U.png" alt="LinkedIn" width="50px" /</a>
 </p>
 
 <hr/>
